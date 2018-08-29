@@ -1,5 +1,7 @@
 # McMaster Engineering Welcome Week Coding Challenge 2018
 
+![Image Not Found](wwcodingposter.png)
+
 ## Introduction
 
 Welcome to the Welcome Week Coding Challenge, presented by AMD! We're happy to welcome both complete beginners who have never coded, and more experienced programmers. If you've never programmed before and want to get learning, proceed to Tier 1! If you've never programmed before and think you're up for a challenge, proceed to Tier 2!
