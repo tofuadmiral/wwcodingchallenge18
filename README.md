@@ -25,6 +25,13 @@ Folow the steps below:
 * ZIP all your files
 * Submit your ZIP folder [here](https://driveuploader.com/upload/EnDi8QAEH7/)
 
+
+## Prizes 
+Prizes will be awarded separately to each category!
+* 1st place: AMD usb speaker + t-shirt
+* 2nd place: AMD mug + t-shirt
+* 3rd place: AMD pen + notebook 
+
 ### Acknowledgements
 Special thanks to AMD and the University Relations Team for helping us out with the event! 
 ![Image Not Found](amdlogo.png)
