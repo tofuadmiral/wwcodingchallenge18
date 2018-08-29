@@ -25,3 +25,4 @@ Folow the steps below:
 
 ### Acknowledgements
 Special thanks to AMD and the University Relations Team for helping us out with the event! 
+![Image Not Found](amdlogo.png)
